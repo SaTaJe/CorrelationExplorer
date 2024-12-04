@@ -1,8 +1,12 @@
 # CorrelationExplorer
 The purpose of this app is to explore the correlation between metabolites run on different LC-MS methods. The app was designed specifically using Metabolomics untargeted LC-MS data.
+
 Access to App:  https://sataje.shinyapps.io/CorrelationExplorer/
+
 Access to Test Files: https://github.com/SaTaJe/CorrelationExplorer
-How to use: Navigate to R Shiny App Correlation Explorer via link above. Upload your sheet in the format specified below. View and navigate through different visualizations. There are two test files already in appropriate format to test and act as a reference. 
+
+How to use: 
+Navigate to R Shiny App Correlation Explorer via link above. Upload your sheet in the format specified below. View and navigate through different visualizations. There are two test files already in appropriate format to test and act as a reference. 
 Sheet format: 
 1.	CSV file 
 2.	Columns each file must contain: 
